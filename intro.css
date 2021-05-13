@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(227, 248, 248)
+    background-image: linear-gradient(135deg,skyblue, rgb(227, 135, 245));
 }
 .pic{
 width:500px;
